@@ -4,7 +4,7 @@ name: Deploy static site to Pages
 on:
   # 在针对 main 分支的 push 事件上运行
   push:
-    branches: ["main"]
+    branches: ["dev"]
 
   # 允许你从 Actions 页签手动运行此工作流
   workflow_dispatch:
