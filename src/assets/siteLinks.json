@@ -16,22 +16,17 @@
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://www.jnuse.bio/"
+    "name": "录屏",
+    "link": "https://web-recorder.jnuse.bio/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://www.jnuse.bio/"
+    "name": "钢琴",
+    "link": "https://piano.jnuse.bio/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://www.jnuse.bio/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://www.jnuse.bio/"
+    "name": "原琴",
+    "link": "https://genshin.jnuse.bio/"
   }
 ]
