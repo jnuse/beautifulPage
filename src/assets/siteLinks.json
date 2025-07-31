@@ -10,11 +10,6 @@
     "link": "http://yked.ysepan.com/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://space.bilibili.com/455802649/favlist?fid=1530893949&ftype=create"
-  },
-  {
     "icon": "Compass",
     "name": "录屏",
     "link": "https://web-recorder.jnuse.bio/"
@@ -26,7 +21,17 @@
   },
   {
     "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.jnuse.bio/"
+  },
+  {
+    "icon": "Fire",
     "name": "原琴",
     "link": "https://genshin.jnuse.bio/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://space.bilibili.com/455802649/favlist?fid=1530893949&ftype=create"
   }
 ]
