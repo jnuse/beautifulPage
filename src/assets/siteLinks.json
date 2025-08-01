@@ -33,5 +33,10 @@
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://space.bilibili.com/455802649/favlist?fid=1530893949&ftype=create"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Gemini",
+    "link": "https://blog.jnuse.bio/gemini/"
   }
 ]
