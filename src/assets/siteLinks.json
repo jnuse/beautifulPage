@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.jnuse.bio/"
+    "link": "https://blog.pixiv.tech/"
   },
   {
     "icon": "Cloud",
@@ -12,22 +12,22 @@
   {
     "icon": "Compass",
     "name": "录屏",
-    "link": "https://web-recorder.jnuse.bio/"
+    "link": "https://web-recorder.pixiv.tech/"
   },
   {
     "icon": "Book",
     "name": "钢琴",
-    "link": "https://piano.jnuse.bio/"
+    "link": "https://piano.pixiv.tech/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.jnuse.bio/"
+    "link": "https://hot.pixiv.tech/"
   },
   {
     "icon": "Fire",
     "name": "原琴",
-    "link": "https://genshin.jnuse.bio/"
+    "link": "https://genshin.pixiv.tech/"
   },
   {
     "icon": "CompactDisc",
@@ -37,6 +37,6 @@
   {
     "icon": "LaptopCode",
     "name": "Gemini",
-    "link": "https://blog.jnuse.bio/gemini/"
+    "link": "https://blog.pixiv.tech/gemini/"
   }
 ]
