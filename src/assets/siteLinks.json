@@ -20,9 +20,9 @@
     "link": "https://piano.pixiv.tech/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.pixiv.tech/"
+    "icon": "Gamepad",
+    "name": "小游戏",
+    "link": "https://game.pixiv.tech/"
   },
   {
     "icon": "Fire",
@@ -38,5 +38,10 @@
     "icon": "LaptopCode",
     "name": "Gemini",
     "link": "https://blog.pixiv.tech/gemini/"
+  },
+  {
+    "icon": "Book",
+    "name": "钢琴",
+    "link": "https://piano.pixiv.tech/"
   }
 ]
