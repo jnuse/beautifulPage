@@ -15,9 +15,9 @@
     "link": "https://web-recorder.pixiv.tech/"
   },
   {
-    "icon": "Book",
-    "name": "钢琴",
-    "link": "https://piano.pixiv.tech/"
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.pixiv.tech/"
   },
   {
     "icon": "Gamepad",
