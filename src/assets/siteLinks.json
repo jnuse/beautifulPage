@@ -10,9 +10,9 @@
     "link": "http://yked.ysepan.com/"
   },
   {
-    "icon": "Compass",
-    "name": "录屏",
-    "link": "https://web-recorder.pixiv.tech/"
+    "icon": "Plane",
+    "name": "飞行棋",
+    "link": "https://plane.pixiv.tech/"
   },
   {
     "icon": "Fire",
@@ -30,6 +30,11 @@
     "link": "https://genshin.pixiv.tech/"
   },
   {
+    "icon": "Compass",
+    "name": "录屏",
+    "link": "https://web-recorder.pixiv.tech/"
+  },
+  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://space.bilibili.com/455802649/favlist?fid=1530893949&ftype=create"
@@ -43,5 +48,10 @@
     "icon": "Book",
     "name": "钢琴",
     "link": "https://piano.pixiv.tech/"
+  },
+  {
+    "icon": "Plane",
+    "name": "情侣飞行棋",
+    "link": "https://lovefly.pixiv.tech/"
   }
 ]
